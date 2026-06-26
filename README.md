@@ -16,11 +16,13 @@ Ce programme est structuré en 2 programmes complémentaires, la division s'est 
 **Programme_principal.py** : Ce programme fait à maintes reprises appel au code précédent. On y propose un menu de fonctionnalités à l'utilisateur, qui est guidé vers telle ou telle fonction selon ses réponses. Il existe une fonction de saisie de nouvelles informations, une fonction de mise à jour, une fonction de suppression ainsi qu'une fonction d'affichage.
 
 **Langage :** Python 
+
 **Librairies Data :** Pandas
+
 **Librairie cryptologie :** Secrets
 
 
-                                                                        par Mohammed T, étudiant en L1 MIASHS à la faculté d'Economie et Gestion d'Aix-en-Provence
+   par Mohammed T, étudiant en L1 MIASHS à la faculté d'Economie et Gestion d'Aix-en-Provence
                                                                         le 26/06/2026
 
 
